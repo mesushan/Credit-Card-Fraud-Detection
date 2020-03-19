@@ -1,2 +1,2 @@
 # Credit-Card-Fraud-Detection
-Using deep learning models to detect the credit card fraud detection
+Using different machine learning and deep learning models to detect the credit card fraud detection.
